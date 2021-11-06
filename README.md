@@ -73,3 +73,9 @@ total 0
 drwxrwxrwx 1 root root 4096  9月  4 21:37 app
 node@fbf4b6d71ddc:~$
 ```
+
+参考
+
+https://github.com/docker-library/postgres/issues/558#issuecomment-472234418
+
+https://code.visualstudio.com/remote/advancedcontainers/add-nonroot-user
