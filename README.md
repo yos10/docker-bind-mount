@@ -79,3 +79,18 @@ node@fbf4b6d71ddc:~$
 https://github.com/docker-library/postgres/issues/558#issuecomment-472234418
 
 https://code.visualstudio.com/remote/advancedcontainers/add-nonroot-user
+
+---
+1. Microsoft Store から Ubuntu 20.04 をインストール
+2. Docker Desktop の Dashboard から WSL INTEGRATION で Ubuntu-20.04 にチェック
+3. //wsl$/Ubuntu-20.04/home/USERNAME/workspace  
+↑をワークスペースとして使っていくことで解決しそう。
+
+Improve container performance  
+https://code.visualstudio.com/remote/advancedcontainers/improve-performance#_store-your-source-code-in-the-wsl-2-filesystem-on-windows
+
+Developing inside a Container using Visual Studio Code Remote Development  
+https://code.visualstudio.com/docs/remote/containers#_open-a-wsl-2-folder-in-a-container-on-windows
+
+Docker Desktop WSL 2 バックエンド | Docker ドキュメント  
+https://matsuand.github.io/docs.docker.jp.onthefly/desktop/windows/wsl/#install
